@@ -32,8 +32,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-.carousel .reel { overflow-x: auto !important; white-space: nowrap; }
-.carousel article { display: inline-block; width: 300px; }
 
 ol, ul {
 	list-style: none;
