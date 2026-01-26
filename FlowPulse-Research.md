@@ -56,6 +56,32 @@
    https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg  
    (calendar / progress tracking)
 
+# FlowPulse - index.html Image Replacement Guide
+
+Total images used: **10**
+
+Replace files in `/images/` folder with these keywords for easy search on Pexels/Unsplash/Pixabay.
+
+| #  | Original filename              | Recommended search keywords (copy-paste ready)                          | Type              |
+|----|--------------------------------|--------------------------------------------------------------------------|-------------------|
+| 1  | screenshot1.jpg                | modern pomodoro timer mobile app dark mode interface                     | screenshot/mockup |
+| 2  | screenshot2.jpg                | distraction blocker focus mode productivity app screen                   | screenshot/mockup |
+| 3  | screenshot3.jpg                | habit tracker streaks calendar minimal mobile ui                        | screenshot/mockup |
+| 4  | screenshot4.jpg                | productivity analytics dashboard clean dark theme                        | screenshot/mockup |
+| 5  | hero-mockup.png                | smartphone mockup productivity app dark mode on desk                     | hero/mockup       |
+| 6  | feature1.jpg                   | adaptive pomodoro timer minimal clean interface                          | feature           |
+| 7  | feature2.jpg                   | one tap distraction blocker focus mode app screen                        | feature           |
+| 8  | feature3.jpg                   | cross device sync productivity app illustration seamless                 | feature           |
+| 9  | app-store-badge.png            | Download on the App Store badge white official                           | badge             |
+|10  | google-play-badge.png          | Get it on Google Play badge white official                               | badge             |
+
+Quick sources:
+- Pexels: pexels.com
+- Unsplash: unsplash.com
+- Badges: tools.applemediaservices.com / play.google.com/badges
+
+Save as FlowPulse-Image-Guide.md
+
 ## Final Notes
 - Replace placeholder images in `/images/` folder
 - Keep aspect ratios similar to original Helios images
