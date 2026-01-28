@@ -1,56 +1,44 @@
-# FlowPulse  
+# FlowPulse
 
-! (flowchart.png)[](https://flow-pulse-liard.vercel.app/)
+![FlowPulse Screenshot](flowchart.png)
 
----
+**[Live Demo → https://flow-pulse-liard.vercel.app/](https://flow-pulse-liard.vercel.app/)**
 
-## What is FlowPulse?  
+This is a customized version of the **Helios** template by HTML5 UP.  
+I only edited content, styling and structure — the core design belongs to the original author.
 
-A single-page showcase wrapped around **HTML5 UP’s Helios** template—stripped back, tuned up, and turned into something that feels like a living pulse.  
-Think of it as the homepage your fantasy app deserves: fast, mobile-ready, zero bloat, infinite scroll illusions.  
+## Original Template Information
 
-No databases. No backend. Just HTML, CSS, a sprinkle of jQuery, and enough animations to make the cursor feel drunk on code.  
+**Helios** by HTML5 UP  
+html5up.net | @ajlkn  
 
----
+Free for personal and commercial use under the **CCA 3.0 license**  
+→ https://html5up.net/license
 
-## Why I Built It  
+Clean, modern one-page template optimized for wide screens while scaling gracefully to mobile.
 
-- **Speed first.** Loads before your coffee cools.  
-- **Looks good everywhere.** Phone, fridge display, whatever. Retina, landscape, portrait—it shrugs.  
-- **No gatekeepers.** If you know how to copy, paste and push, you can clone this and ship your idea today.  
+**Demo images** courtesy of Michael Domaradzki (md.photomerchant.net)  
+→ Not included in this repo. Do NOT download or use Michael's images without his permission.
 
----
+**Credits**  
+- Icons: Font Awesome (fontawesome.io)  
+- JavaScript: jQuery (jquery.com)  
+- Scrollex: github.com/ajlkn/jquery.scrollex  
+- Responsive Tools: github.com/ajlkn/responsive-tools  
 
-## What You Get  
+Made by AJ → aj@lkn.io | @ajlkn
 
-- Clean one-pager with parallax sections (toggleable)  
-- Hero image, stats grid, timeline, contact form (Formspree plug-in)  
-- Font Awesome icons, smooth scroll, lazy-load feel  
-- Responsive nav that collapses into a burger with zero tears  
+## What I Changed
 
----
+- Turned it into a showcase for FlowPulse concept  
+- Added custom screenshot (flowchart.png)  
+- Simplified sections, updated copy  
+- Kept all original functionality and responsiveness
 
-## Credits (the polite shout-outs)  
+## License
 
-- **Template:** Helios by[](https://html5up.net) – CC 3.0 license, free to hack.  
-- **Fonts:** Font Awesome  
-- **JS:** jQuery – the tiny velvet hammer.  
-- **Form:** Formspree – emails without servers.  
+The template remains under **CCA 3.0** (Creative Commons Attribution 3.0).  
+You are free to use, modify and distribute this version as long as you keep the original credits and license link intact.
 
----
-
-## Quick Clone & Deploy  
-
-1. `git clone https://github.com/raimonvibe/FlowPulse`  
-2. Open `index.html`, replace hero text/images.  
-3. Push to Vercel/Netlify—boom, live.  
-4. Swap the demo link above when you’re ready.  
-
-No one will know you didn’t build it from scratch.  
-
----
-
-## License  
-
-Free for personal, client work, or moon-landing side quests.  
-Just don’t resell the raw template. Be decent. (#flowpulse)
+Do not claim the base design as your own.  
+Do not resell the unmodified template.
