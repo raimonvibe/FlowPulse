@@ -141,11 +141,7 @@ main, .inner, section, header, p {
   text-align: center;
   margin-bottom: 2rem;
 }
-a:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(255,107,107,0.5);
-  background: linear-gradient(135deg, #ff8787, #ff4d4d);
-}
+
 #banner {
     background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('images/flow-background.jpg') center/cover no-repeat;
     min-height: 60vh;
@@ -3237,10 +3233,3 @@ a:hover {
 
 	}
 
-#banner .content,
-#banner .content a,
-#banner .content:hover,
-#banner .content a:hover {
-  background: transparent !important;
-  box-shadow: none !important;
-}
