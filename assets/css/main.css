@@ -72,6 +72,26 @@ input, select, textarea {
 	appearance: none;
 }
 
+#features .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#features .row > article {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#features .row > article > a.image.featured {
+  flex: 0 0 auto;           /* image keeps natural height */
+}
+
+#features .row > article > header + p {
+  flex: 1;                  /* text area fills remaining space */
+  margin: 1em 0 0 0;
+}
+
 /* Basic */
 
 	html {
