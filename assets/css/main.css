@@ -94,6 +94,20 @@ input, select, textarea {
 main, .inner, section, header, p {
   text-align: center !important;
 }
+
+#contact .inner.medium .fields .field {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact textarea {
+  width: 100%;
+  max-width: 100%;
+}
+
 /* Basic */
 
 	html {
