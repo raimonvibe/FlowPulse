@@ -3236,3 +3236,11 @@ a:hover {
 					}
 
 	}
+
+#banner .content,
+#banner .content a,
+#banner .content:hover,
+#banner .content a:hover {
+  background: transparent !important;
+  box-shadow: none !important;
+}
