@@ -125,6 +125,40 @@ main, .inner, section, header, p {
   text-decoration: underline;
 }
 
+/* Match button color + linear gradient like the coral/red CTA */
+.back-home-btn {
+  position: sticky;
+  top: 1rem;
+  z-index: 100;
+  display: inline-block;
+  margin: 0 auto 2rem;
+  padding: 0.8em 1.6em;
+  background: linear-gradient(135deg, #ff6b6b, #f94d6a, #e53e3e);
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 50px;
+  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.back-home-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(255, 107, 107, 0.5);
+  background: linear-gradient(135deg, #ff8787, #ff4d4d, #d32f2f);
+}
+
+/* Center it above form */
+#contact .inner.medium {
+  position: relative;
+}
+
+.back-home-btn-wrapper {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 /* Basic */
 
 	html {
