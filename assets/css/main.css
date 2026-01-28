@@ -124,24 +124,19 @@ main, .inner, section, header, p {
 .copyright a:hover {
   text-decoration: underline;
 }
-
-/* Match button color + linear gradient like the coral/red CTA */
-.back-home-btn {
-  position: sticky;
-  top: 1rem;
-  z-index: 100;
-  display: inline-block;
-  margin: 0 auto 2rem;
-  padding: 0.8em 1.6em;
-  background: linear-gradient(135deg, #ff6b6b, #f94d6a, #e53e3e);
-  color: white;
-  font-weight: 600;
-  text-decoration: none;
-  border-radius: 50px;
-  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
-  transition: all 0.3s ease;
-  text-align: center;
-}
+<div style="text-align: center; margin: 1.5rem 0 2.5rem;">
+  <a href="index.html" style="
+    display: inline-block;
+    padding: 0.8em 1.8em;
+    background: linear-gradient(135deg, #ff6b6b, #f94d6a);
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 50px;
+    box-shadow: 0 4px 15px rgba(255,107,107,0.4);
+    transition: all 0.3s ease;
+  ">← Back to Home</a>
+</div>
 
 .back-home-btn:hover {
   transform: translateY(-2px);
