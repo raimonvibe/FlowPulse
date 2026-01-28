@@ -1,8 +1,6 @@
 # FlowPulse  
 
-! (./flowchart.png)  
-
-**[Live Demo → https://flow-pulse-liard.vercel.app/](https://flow-pulse-liard.vercel.app/)**  
+! (flowchart.png)[](https://flow-pulse-liard.vercel.app/)
 
 ---
 
