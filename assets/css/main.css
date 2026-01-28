@@ -124,19 +124,7 @@ main, .inner, section, header, p {
 .copyright a:hover {
   text-decoration: underline;
 }
-<div style="text-align: center; margin: 1.5rem 0 2.5rem;">
-  <a href="index.html" style="
-    display: inline-block;
-    padding: 0.8em 1.8em;
-    background: linear-gradient(135deg, #ff6b6b, #f94d6a);
-    color: white;
-    font-weight: 600;
-    text-decoration: none;
-    border-radius: 50px;
-    box-shadow: 0 4px 15px rgba(255,107,107,0.4);
-    transition: all 0.3s ease;
-  ">← Back to Home</a>
-</div>
+
 
 .back-home-btn:hover {
   transform: translateY(-2px);
@@ -168,7 +156,7 @@ a:hover {
     color: white;
 }
 
-#banner .content h2 {
+#banner .content  {
     font-size: 5.5rem;
     font-weight: 900;
     margin: 0;
@@ -184,27 +172,6 @@ a:hover {
     opacity: 0.95;
 }
 
-.flowpulse-logo {
-    display: inline-block;
-    font-size: 3.5rem;
-    font-weight: 800;
-    color: #fff;                    /* fallback */
-    background: linear-gradient(90deg, #00f2ff, #a78bfa, #ff6bff);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 15px rgba(167,139,250,0.7);
-    transition: all 0.4s ease;
-    text-decoration: none;
-}
-
-.flowpulse-logo:hover,
-.flowpulse-logo:focus {
-    text-shadow: 0 0 25px rgba(167,139,250,1),
-                 0 0 40px rgba(0,242,255,0.8);
-    transform: scale(1.05);
-    /* no background block — gradient + shadow only */
-}
 /* Basic */
 
 	html {
